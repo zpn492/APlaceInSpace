@@ -1,3 +1,6 @@
+/**
+ * A new begining
+ */
 package joa;
 
 public class Joa {
