@@ -6,6 +6,8 @@ Der ting som skal gøres og ting der skal smøres
 
 [APlaceInSpace](https://github.com/zpn492/APlaceInSpace)
 
+#C++ Hello World!
+
 ```c++
 #include <stdio.h>
 #include <stdlib.h> 
