@@ -3,6 +3,7 @@ Der ting som skal gøres og ting der skal smøres
 
 1. Rengøring
 2. Cykelkæde
+3. Afhentning af pakker
 
 [APlaceInSpace](https://github.com/zpn492/APlaceInSpace)
 
